@@ -1,0 +1,20 @@
+.odd {
+    background-color: rgb(237, 130, 189);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+#secondElement {
+    color: rgb(130, 143, 237);
+    font-size: 36px;
+}
+
+.odd.paragraph {
+    font-size: 24px;
+}
+
+#fourthElement {
+    background-color: rgb(194, 237, 130);
+    font-size: 24px;
+    font-weight: bold;
+}
